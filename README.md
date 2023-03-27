@@ -7,7 +7,7 @@ HTML, CSS and includes stock free images
 <h2>Collaborators</h2>
 Senait Ghirmay and Jeet Patel
 <ul>
-<li>Senait Ghirmay and Jeet Patel</li>
+<li>Senait Ghirmay</li>
 <li>Jeet Patel</li>
 </ul>
 
