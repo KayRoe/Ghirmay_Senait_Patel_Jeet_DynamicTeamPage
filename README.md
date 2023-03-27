@@ -5,7 +5,6 @@ Senait Ghirmay and Jeet Patel of the Interactive Media Design Course of winter 2
 HTML, CSS and includes stock free images
 
 <h2>Collaborators</h2>
-Senait Ghirmay and Jeet Patel
 <ul>
 <li>Senait Ghirmay</li>
 <li>Jeet Patel</li>
