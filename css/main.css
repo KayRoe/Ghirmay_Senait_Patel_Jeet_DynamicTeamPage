@@ -20,6 +20,40 @@ h1 {
     margin-bottom: 50px;
 }
 
+.forsen{
+    font-family: 'Great Vibes';
+    letter-spacing: 1.5px;
+}
+
+.forjp{
+    font-family: 'Space Mono';
+    letter-spacing: -1px;
+}
+
+.forsens{
+    font-family: 'Great Vibes';
+    letter-spacing: 1.5px;
+    font-size:medium;
+    border-radius: 12px ;
+    box-shadow: 0 0 10px rgb(1, 119, 229,0.5);
+}
+
+.forjps{
+    font-family: 'Space Mono';
+    letter-spacing: -1px;
+    font-size:medium;
+    border-radius: 12px ;
+    box-shadow: 0 0 10px rgb(1, 119, 229,0.5);
+}
+.team-member {
+    display: none;
+}
+
+.active {
+    display: block;
+}
+
+
 .bio {
     margin-top: 20px;
     line-height: 1.5;
