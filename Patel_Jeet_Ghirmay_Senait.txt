@@ -1,0 +1,30 @@
+
+
+1st card Senait Ghirmay profile bio 
+	1. Senait Ghirmay
+	   Interactive Media Design Student Fanshawe College
+	2. Jeet Patel
+2nd card Jeet Patel profile bio 
+	1. Jeet Patel profile bio
+	   Interactive Media Design Student Fanshawe College
+	2. Senait Ghirmay 
+
+
+
+
+
+1. Create an HTML document with a container div, a heading, two team-member divs with unique ids and classes, and a nav div with two buttons that correspond to each team member's name.
+
+2. Style the HTML document using CSS, including font-family, background images, padding, margin, box-shadow, border-radius, and other properties.
+
+3. Add JavaScript code that contains two functions, showMember and updateTeamMember.
+
+4. Modify the showMember function to remove the active class from the previous team member, add the active class to the new team member, update the team member's details, and add an active class to the corresponding button.
+
+5. Add an active class to the corresponding button and update the CSS styles accordingly to keep the button orange when its corresponding member is active.
+
+6. Add the active class to the first button by default when the page loads.
+
+7. Test the dynamic team page by clicking on the buttons and verifying that the corresponding button stays orange when its corresponding member is active.
+
+8. This simpler plan still covers all the necessary steps to create a dynamic team page and test it with the added functionality of keeping the button orange when its corresponding member is active.
